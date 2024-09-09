@@ -1,7 +1,7 @@
 # tictactoe
 ## Installation and Running the Project
 
-This guide explains how to install and run the `next-component-library` project from GitHub.  You will need to have Git installed on your local machine to install and run the project.
+You will need to have Git installed on your local machine to install and run the project.
 
 ### Installation 
 
