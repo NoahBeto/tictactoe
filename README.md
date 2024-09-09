@@ -8,7 +8,7 @@ This guide explains how to install and run the `next-component-library` project 
 1. **Clone the GitHub repository**:
    Open your terminal and clone the repository using the following command:
    ```bash
-   git clone https://github.com/Operating-Owls/tictactoe.git
+   git clone https://github.com/NoahBeto/tictactoe.git
    ```
    This command downloads the project files to your local machine.
 
